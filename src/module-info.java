@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author eabel
+ *
+ */
+module Dsinjava {
+}
